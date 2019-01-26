@@ -1,4 +1,4 @@
-remote_theme: y7kim/agency-jekyll-theme
+theme: jekyll-theme-minimal
 title: Amy's Page
 description: Amy Chang's bio
 logo: Doc.jpg
